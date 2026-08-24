@@ -35,4 +35,4 @@ Academic/portfolio work by Noura Manassra. Original commit history is preserved.
 
 ## Portfolio focus
 
-This repository supports my broader focus on **Backend + AI engineering**, including APIs, data, intelligent systems, security, systems fundamentals, and practical problem-solving.
+This repository supports my broader focus on **Full-Stack + AI engineering**, including APIs, data, intelligent systems, security, systems fundamentals, and practical problem-solving.
